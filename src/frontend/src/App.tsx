@@ -441,7 +441,7 @@ function ContactSection() {
               {[
                 {
                   icon: <Phone className="w-5 h-5" />,
-                  label: "+91 98765 43210",
+                  label: "+91 6300900179",
                 },
                 {
                   icon: <Mail className="w-5 h-5" />,
@@ -658,7 +658,7 @@ function Footer() {
             <div className="mt-8 flex flex-col gap-3">
               <div className="flex items-center gap-3 text-white/55 text-sm">
                 <Phone className="w-4 h-4 text-roman-gold" />
-                +91 98765 43210
+                +91 6300900179
               </div>
               <div className="flex items-center gap-3 text-white/55 text-sm">
                 <Mail className="w-4 h-4 text-roman-gold" />
