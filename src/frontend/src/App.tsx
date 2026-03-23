@@ -308,9 +308,9 @@ function ApproachSection() {
             className="relative"
           >
             <img
-              src="/assets/generated/roman-team-meeting.dim_800x600.jpg"
-              alt="Royal Ambuja manufacturing facility"
-              className="w-full h-[400px] lg:h-[500px] object-cover"
+              src="/assets/uploads/file_000000006edc7208bc002052556347cf-019d1cb9-981f-76ce-aa22-68500f994751-1.png"
+              alt="Royal Ambuja Submersible Pump - Warranty Card"
+              className="w-full h-[400px] lg:h-[500px] object-contain bg-white"
             />
             <div
               className="absolute -bottom-6 -right-6 w-24 h-24 border-4"
@@ -441,7 +441,7 @@ function ContactSection() {
               {[
                 {
                   icon: <Phone className="w-5 h-5" />,
-                  label: "+91 6300900179",
+                  label: "+91 6300900178",
                 },
                 {
                   icon: <Mail className="w-5 h-5" />,
@@ -658,7 +658,7 @@ function Footer() {
             <div className="mt-8 flex flex-col gap-3">
               <div className="flex items-center gap-3 text-white/55 text-sm">
                 <Phone className="w-4 h-4 text-roman-gold" />
-                +91 6300900179
+                +91 6300900178
               </div>
               <div className="flex items-center gap-3 text-white/55 text-sm">
                 <Mail className="w-4 h-4 text-roman-gold" />
